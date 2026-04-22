@@ -1,0 +1,47 @@
+
+@import "tailwindcss";
+/* body{
+     background-color: rgb(26, 57, 82); 
+     color: white;
+} */
+.link{
+    color: black;
+}
+
+.header{
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+.input{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 2px;
+    width: 250px;
+}
+.button{
+    padding: 5px;
+    margin: 5px;
+}
+.button:hover{
+     background-color: black;
+     color: white;
+}
+
+
+/* body{
+    height: 100vh;
+    width: 100vw;
+} */
+/* *{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* .content{
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+} */
