@@ -93,52 +93,6 @@
       "id": "orkzD9jSZb8"
     },
     {
-      "_id": "66f53790967bbc8c4ed04ab9",
-      "index": 2,
-      "guid": "bcbd0311-c9ba-4f9b-83f0-bfba128e1c8f",
-      "isActive": true,
-      "balance": "$1,247.43",
-      "profilePic": "https://avatar.iran.liara.run/public/73",
-      "age": 32,
-      "eyeColor": "green",
-      "name": "Kaitlin Harper",
-      "gender": "female",
-      "company": "TWIIST",
-      "email": "kaitlinharper@twiist.com",
-      "phone": "+1 (865) 424-3857",
-      "address": "958 Garden Place, Vale, Kentucky, 818",
-      "about": "Duis duis dolore sint duis commodo labore voluptate consectetur. Amet deserunt adipisicing fugiat consectetur ex nulla. Cupidatat et ipsum duis magna. Et cillum incididunt culpa nulla ullamco ea occaecat elit proident amet. Fugiat Lorem in eiusmod cillum. Culpa cillum esse cillum incididunt pariatur esse aliquip reprehenderit. Reprehenderit adipisicing cupidatat quis ad.\r\n",
-      "registered": "2023-07-16T02:05:16 -06:-30",
-      "latitude": 64.866658,
-      "longitude": 130.902552,
-      "tags": [
-        "est",
-        "veniam",
-        "officia",
-        "ad",
-        "ullamco",
-        "sint",
-        "sint"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Cantu Tucker"
-        },
-        {
-          "id": 1,
-          "name": "Dixie Barry"
-        },
-        {
-          "id": 2,
-          "name": "Petersen Oliver"
-        }
-      ],
-      "greeting": "Hello, Kaitlin Harper! You have 2 unread messages.",
-      "favoriteFruit": "strawberry",
-      "id": "8eNiUjEnUio"
-    },
-    {
       "_id": "66f53790577d86ec18e04058",
       "index": 3,
       "guid": "5ebbf112-8833-4fd7-a951-2c98d58d59a0",
@@ -1571,7 +1525,7 @@
       "isActive": false,
       "balance": "$1,445.71",
       "profilePic": "https://avatar.iran.liara.run/public/7",
-      "age": 23,
+      "age": "22",
       "eyeColor": "green",
       "name": "Aurora Koch",
       "gender": "female",
